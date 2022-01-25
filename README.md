@@ -9,7 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-maulana-    zetta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a>
-  [![Ilham's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilham-maulana-zetta&show_icons=true&theme=dark)](https://github.com/ilham-maulana-zetta/github-readme-stats)
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilham-maulana-zetta&show_icons=true&theme=dark" />
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilham_hzrd20&theme=github_dark&layout=compact">
