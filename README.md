@@ -5,6 +5,4 @@
 - 💬 Ask me about Front End Web Development
 - 📫 How to reach me: You can search me on any social medias with @ilham_hzrd20
 
-<p align=center>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilham_hzrd20&theme=github_dark&layout=compact">
-</p>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilham_hzrd20&theme=github_dark&layout=compact">
