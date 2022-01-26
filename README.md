@@ -12,11 +12,17 @@
   <p>📫 How to reach me: You can search me on any social medias with @ilham_hzrd20</p>
 </div>
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-maulana-zetta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ilham-maulana-zetta&show_icons=true&theme=dark" />
-</a>
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilham_hzrd20&theme=github_dark&layout=compact">
+<div align="center">
+   <a>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-maulana-zetta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+   </a>
+   <a>
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=ilham-maulana-zetta&show_icons=true&theme=dark" />
+   </a>
+</div>
+
+<div align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ilham_hzrd20&theme=github_dark&layout=compact">
+</div>
