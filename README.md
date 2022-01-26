@@ -9,7 +9,7 @@
   <p>🔭 I’m currently working as a Front End Web Developer at Zettabyte Pte Ltd, Singapore</p>
   <p>🌱 I’m currently learning about Angular, Typescript/Javascript, and TailwindCSS</p>
   <p>💬 Ask me about Front End Web Development</p>
-  <p>📫 How to reach me: You can search me on any social medias with @ilham_hzrd20</p>
+  <p>📫 How to reach me: You can find me on any social media with @ilham_hzrd20</p>
 </div>
 
 <br>
