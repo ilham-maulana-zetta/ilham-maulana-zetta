@@ -14,15 +14,17 @@
 
 <br>
 
-<div align="center">
-   <a>
-      <img align="left" width="396" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-maulana-zetta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-   </a>
-   <a>
-      <img align="right" width="396" src="https://github-readme-stats.vercel.app/api?username=ilham-maulana-zetta&show_icons=true&theme=dark" />
-   </a>
-</div>
+<p align="center">
+   <div align="center">
+      <a>
+         <img align="left" width="396" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilham-maulana-zetta&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+      </a>
+      <a>
+         <img align="right" width="396" src="https://github-readme-stats.vercel.app/api?username=ilham-maulana-zetta&show_icons=true&theme=dark" />
+      </a>
+   </div>
 
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilham_hzrd20&theme=github_dark&layout=compact">
-</div>
+   <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ilham_hzrd20&theme=github_dark&layout=compact">
+   </div>
+</p>
