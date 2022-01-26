@@ -1,10 +1,15 @@
 <div align="center">
-  ### Hi there 👋
+   <h2 align="center">
+    Hi World! I'm Ilham!
+    <img 
+      src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+      width="28">
+  </h3>
 
-  - 🔭 I’m currently working as a Front End Web Developer at Zettabyte Pte Ltd, Singapore
-  - 🌱 I’m currently learning about Angular, Typescript/Javascript, and TailwindCSS
-  - 💬 Ask me about Front End Web Development
-  - 📫 How to reach me: You can search me on any social medias with @ilham_hzrd20
+  🔭 I’m currently working as a Front End Web Developer at Zettabyte Pte Ltd, Singapore
+  🌱 I’m currently learning about Angular, Typescript/Javascript, and TailwindCSS
+  💬 Ask me about Front End Web Development
+  📫 How to reach me: You can search me on any social medias with @ilham_hzrd20
 </div>
 
 <a>
