@@ -6,10 +6,10 @@
       width="28">
   </h3>
 
-  🔭 I’m currently working as a Front End Web Developer at Zettabyte Pte Ltd, Singapore
-  🌱 I’m currently learning about Angular, Typescript/Javascript, and TailwindCSS
-  💬 Ask me about Front End Web Development
-  📫 How to reach me: You can search me on any social medias with @ilham_hzrd20
+  <p>🔭 I’m currently working as a Front End Web Developer at Zettabyte Pte Ltd, Singapore</p>
+  <p>🌱 I’m currently learning about Angular, Typescript/Javascript, and TailwindCSS</p>
+  <p>💬 Ask me about Front End Web Development</p>
+  <p>📫 How to reach me: You can search me on any social medias with @ilham_hzrd20</p>
 </div>
 
 <a>
